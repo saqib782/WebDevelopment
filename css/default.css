@@ -801,6 +801,12 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
+@media (max-width: 780px) {
+   .rotating-image{
+      position: relative;
+      display: none;
+   }
+}
 
 
 
